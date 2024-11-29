@@ -72,6 +72,9 @@ MIT License – Do whatever you want, but please don’t use this for malicious 
 
 ---
 
-Enjoy the irony of brute-forcing one of the most secure systems ever designed! 🤓
+Enjoy the irony of brute-forcing one of the most secure systems ever designed!
+
+![Alt text](https://media.giphy.com/media/TamGVAGxDTYDNt3dpn/giphy.gif)
+
 
 
